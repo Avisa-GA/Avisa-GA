@@ -19,6 +19,7 @@
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="xstate" src="https://img.shields.io/badge/-xstate-red" />
   <img alt="sass" src="https://img.shields.io/badge/-sass-orange" />
+   <img alt="typescript" src="https://img.shields.io/badge/-typescript-green" />
   <img alt="netlify" src="https://img.shields.io/badge/-Netlify-success" />
 </p>
 
