@@ -20,6 +20,7 @@
   <img alt="xstate" src="https://img.shields.io/badge/-xstate-red" />
   <img alt="sass" src="https://img.shields.io/badge/-sass-orange" />
    <img alt="typescript" src="https://img.shields.io/badge/-typescript-green" />
+   <img alt="functionaljs" src="https://img.shields.io/badge/-Functional%20JS-yellowgreen" />
   <img alt="netlify" src="https://img.shields.io/badge/-Netlify-success" />
 </p>
 
