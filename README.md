@@ -17,6 +17,8 @@
   <img alt="Material-UI" src="https://img.shields.io/badge/-Material--UI%20%26%20Materialize-orange"/>
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="xstate" src="https://img.shields.io/badge/-xstate-red" />
+  <img alt="sass" src="https://img.shields.io/badge/-sass-orange" />
   <img alt="netlify" src="https://img.shields.io/badge/-Netlify-success" />
 </p>
 
