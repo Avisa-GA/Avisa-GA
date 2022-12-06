@@ -10,6 +10,7 @@
   <img alt="MERN" src="https://img.shields.io/badge/-MERN-red" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="postgreSQL" src="https://img.shields.io/badge/-PostgreSQL-yellowgreen" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-orange" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="python/django" src="https://img.shields.io/badge/-Python%2FDjango-yellow" />
   <img alt="Ruby on Rails" src="https://img.shields.io/badge/-Ruby%20on%20Rails-critical" />
