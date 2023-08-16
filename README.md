@@ -25,8 +25,3 @@
    <img alt="functionaljs" src="https://img.shields.io/badge/-Functional%20JS-yellowgreen" />
   <img alt="netlify" src="https://img.shields.io/badge/-Netlify-success" />
 </p>
-
-<h3>Where to find me</h3>
-<p><br/><a href="https://www.linkedin.com/in/avisaposhtkouhi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-</p>
-
