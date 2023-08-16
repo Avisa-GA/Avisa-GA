@@ -3,7 +3,7 @@
 <p>I'm Avisa, Software Engineer | full stack, passionate about 👩‍💻 ... ☕️ , currently living in San Jose.</p>
 <h3>Things I code with</h3>
 <p>
-  <img alt="Next.js" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Css3" src="https://img.shields.io/badge/-CSS3-green" />
   <img alt="javaScript" src="https://img.shields.io/badge/-JavaScript-important" />
