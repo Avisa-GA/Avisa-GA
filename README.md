@@ -27,5 +27,6 @@
 </p>
 
 <h3>Where to find me</h3>
-<p><br/><a href="https://www.linkedin.com/in/avisaposhtkouhi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/AvisaAp" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<p><br/><a href="https://www.linkedin.com/in/avisaposhtkouhi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://x.com/avisaap?s=21" target="_blank"><img alt="X" src="https://img.shields.io/badge/X%-8A2BE2" /></a>
 </p>
+
